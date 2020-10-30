@@ -1,0 +1,22 @@
+{
+  "name": "mpg2kpl-js",
+  "version": "1.0.0",
+  "description": "MPG to KPL converter written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterthodyu/mpg2tkl-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterthodyu/mpg2tkl-js/issues"
+  },
+  "homepage": "https://github.com/masterthodyu/mpg2tkl-js#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
